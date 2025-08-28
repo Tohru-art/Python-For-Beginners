@@ -1,0 +1,7 @@
+Instructions
+
+Determine if a number is odd or even.
+
+You'll be given a variable called 'number'.
+Your task: If 'number' is odd return 'True'. If number is even return 'False'.
+

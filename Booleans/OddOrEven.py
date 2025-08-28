@@ -1,8 +1,10 @@
-# OddOrEven.py
 
-number = int(input("Enter a number: "))
+number = 11
 
-if number % 2 == 0:
-    print("Even")
+# code goes here.
+remainder = number % 2
+
+if remainder == 1:
+    print(True) #return True, meaning odd
 else:
-    print("Odd")
+    print(False) #return False, meaing even
